@@ -1,2 +1,8 @@
 # project-status-report
-Weekly project status tracking
+## Week 1- September 6, 2026- 
+- Project initiated
+- Team members assigned
+- Initial budget approved:
+$50,000
+
+---
